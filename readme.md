@@ -54,3 +54,9 @@ This kata is about multiplying a given number by eight if it is an even number a
 ## codewars 5
 
 Given a non-negative integer, 3 for example, return a string with a murmur: "1 sheep...2 sheep...3 sheep...". Input will always be valid, i.e. no negative integers.
+
+## codewars 6
+
+We need a function that can transform a number (integer) into a string.
+
+What ways of achieving this do you know?
