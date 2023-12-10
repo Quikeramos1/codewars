@@ -1,10 +1,9 @@
 #Funcion que elimina todas las vocales de una cadena.
 
 def disemvowel(string_):
-    vocales = ("a","e","i","o","u","A","E","I","O","U")
     lstring_=[]
     for i in string_:
-        if i not in vocales:
+        if i.lower() not in "aeiou":
             lstring_.append(i)
         else:
             continue
