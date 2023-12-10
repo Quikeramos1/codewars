@@ -60,3 +60,22 @@ Given a non-negative integer, 3 for example, return a string with a murmur: "1 s
 We need a function that can transform a number (integer) into a string.
 
 What ways of achieving this do you know?
+
+## codewars 7
+
+Create a function which answers the question "Are you playing banjo?".
+If your name starts with the letter "R" or lower case "r", you are playing banjo!
+
+The function takes a name as its only argument, and returns one of the following strings:
+
+name + " plays banjo" 
+name + " does not play banjo"
+Names given are always valid strings.
+
+## codewars 8
+
+You get an array of numbers, return the sum of all of the positives ones.
+
+Example [1,-4,7,12] => 1 + 7 + 12 = 20
+
+Note: if there is nothing to sum, the sum is default to 0.
