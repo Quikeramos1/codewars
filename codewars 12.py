@@ -1,7 +1,7 @@
 #Función que devuelve el número de True de una lista.
 
 def count_sheeps(sheep):
-    print(sheep)
+    
     contador = 0
     if len(sheep)== 0:
         return 0
@@ -13,11 +13,13 @@ def count_sheeps(sheep):
             
     return contador
 
+sheep = []
 print(count_sheeps(sheep))
+
 '''
-Esta función hace lo mismo
-def count_sheeps(arrayOfSheeps):
-  return arrayOfSheeps.count(True)
+Esta función hace lo mismo:
+def count_sheeps(sheep):
+  return sheep.count(True)
 '''
 
 
