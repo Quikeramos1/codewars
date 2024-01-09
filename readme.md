@@ -122,3 +122,11 @@ For example,
 The correct answer would be 17.
 
 Hint: Don't forget to check for bad values like null/undefined
+
+## Codewars 13
+
+Return the number (count) of vowels in the given string.
+
+We will consider a, e, i, o, u as vowels for this Kata (but not y).
+
+The input string will only consist of lower case letters and/or spaces.
