@@ -99,3 +99,10 @@ For example, the string "This website is for losers LOL!" would become "Ths wbst
 
 Note: for this kata y isn't considered a vowel.
 
+## Codewars 11
+
+Complete the solution so that it returns true if the first argument(string) passed in ends with the 2nd argument (also a string).
+
+Examples:
+solution('abc', 'bc') # returns true
+solution('abc', 'd') # returns false
